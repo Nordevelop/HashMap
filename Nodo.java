@@ -1,11 +1,11 @@
 class Node{
     //objetos  
-    int data;
-    Node next;
+    int dato;
+    Node siguiente;
  
-    Node(int data, Node next){
-        this.data = data;
-        this.next = next;
+    Node(int data, Node siguiente){
+        this.dato = dato;
+        this.siguiente = siguiente;
     }
 }
  
