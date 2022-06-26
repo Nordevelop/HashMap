@@ -1,0 +1,2 @@
+La función hash o función de transformación debe reducir al máximo las colisiones. Se produce una colisión cuando dos registros de claves distintas, c1 y c2, producen la misma dirección, h(c1) = h(c2).
+Nunca existirá una garantía plena de que no haya colisiones, y más sin conocer de antemano las claves y las direcciones. La experiencia enseña que siempre habrá que preparar la resolución de colisiones para cuando se produzca alguna.
